@@ -14,3 +14,5 @@ Q4 - ggp/gpp4/
 Q5 - ggp/gpp5/
 
 Q6 - ggp/gpp6/ggp6.sql
+
+Kritnop A.
