@@ -1,7 +1,7 @@
 # ggp-exam
 GOGOPRINT Developer Examination
 
-# please check answer as below 
+# please check the answers below 
 
 Q1 - ggp/gpp1and2/
 
